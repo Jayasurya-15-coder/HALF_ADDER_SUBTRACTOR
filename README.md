@@ -1,6 +1,6 @@
-### NAME : JAYASURYA B
-### REG NO. 24001758
-### EXPERIMENT 3 : HALF_ADDER_SUBTRACTOR
+# NAME : JAYASURYA B
+# REG NO. 24001758
+# EXPERIMENT 3 : HALF_ADDER_SUBTRACTOR
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
