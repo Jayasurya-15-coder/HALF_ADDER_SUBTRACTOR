@@ -6,7 +6,7 @@
 
 To design a half adder and half subtractor circuit and verify its truth table in Quartus using Verilog programming.
 
-**Equipments Required:
+# EQUIPMENTS REQUIRED:
 
 Hardware – PCs, Cyclone II , USB flasher 
 
